@@ -1,6 +1,6 @@
 Video URL: https://www.youtube.com/watch?v=9MhAILPIRpk
 
-My final project is a Coordinate Pathfinder in the Mathematical Fourth Dimension. This is a pure C++ file that can be run on any standard C++ compiler. To run this program, go to Visual Studio Code or CS50’s visual studio code. Run the following command into the terminal: “code 4DPathfinder.cpp”. This should create a C++ file named ‘4DPathfinder.cpp’ in your Explorer. Click on the file and copy / paste the code from my submission. Next, run the following terminal command: “make 4DPathfinder.cpp”. Finally, run “./4DPathfinder” in the terminal to run the project. 
+I think this is my best attempt yet of the Coordinate Pathfinder in the Mathematical Fourth Dimension. This is a pure C++ file that can be run on any standard C++ compiler. To run this program, go to Visual Studio Code or CS50’s visual studio code. Run the following command into the terminal: “code 4DPathfinder.cpp”. This should create a C++ file named ‘4DPathfinder.cpp’ in your Explorer. Click on the file and copy / paste the code from my submission. Next, run the following terminal command: “make 4DPathfinder.cpp”. Finally, run “./4DPathfinder” in the terminal to run the project. 
 
 
 If this method of running the project does not work for you, you can alternatively use any online C++ compiler to run the program, which you can find by googling “Online C++ Compiler” (and copying / pasting in the code). Note that this method may cause the program to run a bit slower due to the limited speed of these platforms. 
